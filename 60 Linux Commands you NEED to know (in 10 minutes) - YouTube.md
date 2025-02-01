@@ -1,4 +1,4 @@
-# 60 Linux Commands you NEED to know (in 10 minutes) - YouTube
+60 Linux Commands you NEED to know
 
  URL: https://www.youtube.com/watch?v=gd7BXuUQ91w
 
